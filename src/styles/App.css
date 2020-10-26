@@ -3,6 +3,7 @@
   height: 50%;
   margin: auto;
   margin-top: 250px;
+  /*border: 2px solid green;*/
 }
 body html .root {
   height: 100%;
@@ -21,7 +22,6 @@ body html .root {
   width: 195px;
   margin: 15px;
 }
-
 .reset {
   font-family: "Fredoka One", cursive;
 
